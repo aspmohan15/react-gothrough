@@ -1,0 +1,25 @@
+.btn {
+  /* display: none; */
+  /* background-color: blue;
+  padding: 20%;
+  color: whitesmoke;
+  border-radius: 10px; */
+  float: left;
+}
+
+.Overflow {
+  
+  /* height: 18px;
+  width: 140px;
+  padding: 0;
+  overflow: hidden;
+  position: relative;
+  display: inline-block;
+  margin: 0 5px 0 5px;
+  text-align: center;
+  text-decoration: none;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  color: #000; */
+  
+}
